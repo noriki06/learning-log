@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# エディタ
+*.swp
+*~
+.idea/
+.vscode/
+
+# 公開しない下書き・業務メモはここに置く（コミットされない）
+private/
+drafts/
